@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts
+build/
+dist/
+.next/
+out/
+coverage/
+
+# System files
+.DS_Store
